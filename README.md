@@ -26,10 +26,6 @@ A simple login system for authentication and user management.
 
 - Node.js
 
-## License
-
-MIT License
-
 ---
 
 # Projeto de Login
@@ -60,7 +56,3 @@ Um sistema simples de login para autenticação e gerenciamento de usuários.
 ## Tecnologias
 
 - Node.js
-
-## Licença
-
-Licença MIT
